@@ -1,0 +1,11 @@
+.tall {
+  display: none;
+  font-weight:bold;
+  color: red;
+}
+
+.short {
+  display: none;
+  font-weight:bold;
+  color: blue;
+}
